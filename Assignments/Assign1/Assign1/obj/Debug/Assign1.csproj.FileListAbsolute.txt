@@ -1,0 +1,8 @@
+C:\Users\poojati\source\repos\Assign1\Assign1\bin\Debug\Assign1.exe.config
+C:\Users\poojati\source\repos\Assign1\Assign1\bin\Debug\Assign1.exe
+C:\Users\poojati\source\repos\Assign1\Assign1\bin\Debug\Assign1.pdb
+C:\Users\poojati\source\repos\Assign1\Assign1\obj\Debug\Assign1.csproj.AssemblyReference.cache
+C:\Users\poojati\source\repos\Assign1\Assign1\obj\Debug\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\poojati\source\repos\Assign1\Assign1\obj\Debug\Assign1.exe
+C:\Users\poojati\source\repos\Assign1\Assign1\obj\Debug\Assign1.pdb
+C:\Users\poojati\source\repos\Assign1\Assign1\obj\Debug\Assign1.exe.config

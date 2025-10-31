@@ -1,0 +1,7 @@
+C:\Users\poojati\source\repos\Asgn2\Asgn2\bin\Debug\Asgn2.exe.config
+C:\Users\poojati\source\repos\Asgn2\Asgn2\bin\Debug\Asgn2.exe
+C:\Users\poojati\source\repos\Asgn2\Asgn2\bin\Debug\Asgn2.pdb
+C:\Users\poojati\source\repos\Asgn2\Asgn2\obj\Debug\Asgn2.csproj.AssemblyReference.cache
+C:\Users\poojati\source\repos\Asgn2\Asgn2\obj\Debug\Asgn2.csproj.CoreCompileInputs.cache
+C:\Users\poojati\source\repos\Asgn2\Asgn2\obj\Debug\Asgn2.exe
+C:\Users\poojati\source\repos\Asgn2\Asgn2\obj\Debug\Asgn2.pdb

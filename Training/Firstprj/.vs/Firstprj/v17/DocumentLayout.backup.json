@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\source\\repos\\Firstprj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27E47B3-727B-4C9B-B2D1-F35AB1EFBAFF}|Firstprj\\Firstprj.csproj|c:\\users\\poojati\\source\\repos\\firstprj\\firstprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27E47B3-727B-4C9B-B2D1-F35AB1EFBAFF}|Firstprj\\Firstprj.csproj|solutionrelative:firstprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\source\\repos\\Firstprj\\Firstprj\\Program.cs",
+              "RelativeDocumentMoniker": "Firstprj\\Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\source\\repos\\Firstprj\\Firstprj\\Program.cs",
+              "RelativeToolTip": "Firstprj\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:15:14.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

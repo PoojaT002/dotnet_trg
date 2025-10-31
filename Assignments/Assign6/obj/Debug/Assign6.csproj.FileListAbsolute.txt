@@ -1,0 +1,8 @@
+C:\Users\poojati\source\repos\Assign6\bin\Debug\Assign6.exe.config
+C:\Users\poojati\source\repos\Assign6\bin\Debug\Assign6.exe
+C:\Users\poojati\source\repos\Assign6\bin\Debug\Assign6.pdb
+C:\Users\poojati\source\repos\Assign6\obj\Debug\Assign6.csproj.AssemblyReference.cache
+C:\Users\poojati\source\repos\Assign6\obj\Debug\Assign6.csproj.CoreCompileInputs.cache
+C:\Users\poojati\source\repos\Assign6\obj\Debug\Assign6.exe
+C:\Users\poojati\source\repos\Assign6\obj\Debug\Assign6.pdb
+C:\Users\poojati\source\repos\Assign6\obj\Debug\Assign6.exe.config

@@ -1,0 +1,8 @@
+C:\Users\poojati\source\repos\Firstprj\Firstprj\bin\Debug\Firstprj.exe.config
+C:\Users\poojati\source\repos\Firstprj\Firstprj\bin\Debug\Firstprj.exe
+C:\Users\poojati\source\repos\Firstprj\Firstprj\bin\Debug\Firstprj.pdb
+C:\Users\poojati\source\repos\Firstprj\Firstprj\obj\Debug\Firstprj.csproj.AssemblyReference.cache
+C:\Users\poojati\source\repos\Firstprj\Firstprj\obj\Debug\Firstprj.csproj.CoreCompileInputs.cache
+C:\Users\poojati\source\repos\Firstprj\Firstprj\obj\Debug\Firstprj.exe
+C:\Users\poojati\source\repos\Firstprj\Firstprj\obj\Debug\Firstprj.pdb
+C:\Users\poojati\source\repos\Firstprj\Firstprj\obj\Debug\Firstprj.exe.config
