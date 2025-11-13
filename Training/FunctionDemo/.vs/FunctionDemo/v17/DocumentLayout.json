@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\static_nonstatic_fundemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:static_nonstatic_fundemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\param.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:param.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\outwdiscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:outwdiscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\callbyvaluerefdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:callbyvaluerefdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\funwithoutrtnwithoutargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:funwithoutrtnwithoutargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\funwrtnwargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:funwrtnwargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\functiondemo\\funwithoutrtnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:funwithoutrtnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\funwithrtnwoutarg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:funwithrtnwoutarg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BADBBC-F613-43D8-83B3-AA152A13DA72}|FunctionDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Static_NonStatic_FunDemo.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Static_NonStatic_FunDemo.cs",
+              "RelativeDocumentMoniker": "Static_NonStatic_FunDemo.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Static_NonStatic_FunDemo.cs",
+              "RelativeToolTip": "Static_NonStatic_FunDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:36:40.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Param.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Param.cs",
+              "RelativeDocumentMoniker": "Param.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Param.cs",
+              "RelativeToolTip": "Param.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:14:21.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutWDiscard.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\OutWDiscard.cs",
+              "RelativeDocumentMoniker": "OutWDiscard.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\OutWDiscard.cs",
+              "RelativeToolTip": "OutWDiscard.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:46:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallByValueRefDemo.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\CallByValueRefDemo.cs",
+              "RelativeDocumentMoniker": "CallByValueRefDemo.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\CallByValueRefDemo.cs",
+              "RelativeToolTip": "CallByValueRefDemo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:31:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunWithoutRtnWithoutArgs.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithoutRtnWithoutArgs.cs",
+              "RelativeDocumentMoniker": "FunWithoutRtnWithoutArgs.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithoutRtnWithoutArgs.cs",
+              "RelativeToolTip": "FunWithoutRtnWithoutArgs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:43:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunWRtnWArgs.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWRtnWArgs.cs",
+              "RelativeDocumentMoniker": "FunWRtnWArgs.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWRtnWArgs.cs",
+              "RelativeToolTip": "FunWRtnWArgs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:35:10.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunWithoutRtnWithArgs.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithoutRtnWithArgs.cs",
+              "RelativeDocumentMoniker": "FunWithoutRtnWithArgs.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithoutRtnWithArgs.cs",
+              "RelativeToolTip": "FunWithoutRtnWithArgs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:17:13.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunWithRtnWoutArg.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithRtnWoutArg.cs",
+              "RelativeDocumentMoniker": "FunWithRtnWoutArg.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\FunWithRtnWoutArg.cs",
+              "RelativeToolTip": "FunWithRtnWoutArg.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:47:51.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FunctionDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:46:50.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

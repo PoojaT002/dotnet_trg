@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\Indexes\bin\Debug\Indexes.exe.config
+C:\Users\poojati\dotnet_trg\Training\Indexes\bin\Debug\Indexes.exe
+C:\Users\poojati\dotnet_trg\Training\Indexes\bin\Debug\Indexes.pdb
+C:\Users\poojati\dotnet_trg\Training\Indexes\obj\Debug\Indexes.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\Indexes\obj\Debug\Indexes.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\Indexes\obj\Debug\Indexes.exe
+C:\Users\poojati\dotnet_trg\Training\Indexes\obj\Debug\Indexes.pdb
+C:\Users\poojati\dotnet_trg\Training\Indexes\obj\Debug\Indexes.exe.config

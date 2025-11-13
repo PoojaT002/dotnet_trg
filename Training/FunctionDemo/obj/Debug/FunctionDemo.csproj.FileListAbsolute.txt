@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\bin\Debug\FunctionDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\bin\Debug\FunctionDemo.exe
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\bin\Debug\FunctionDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\obj\Debug\FunctionDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\obj\Debug\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\obj\Debug\FunctionDemo.exe
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\obj\Debug\FunctionDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\FunctionDemo\obj\Debug\FunctionDemo.exe.config

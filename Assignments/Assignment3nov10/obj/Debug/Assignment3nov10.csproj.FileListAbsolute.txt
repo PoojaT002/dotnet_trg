@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\bin\Debug\Assignment3nov10.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\bin\Debug\Assignment3nov10.exe
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\bin\Debug\Assignment3nov10.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\obj\Debug\Assignment3nov10.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\obj\Debug\Assignment3nov10.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\obj\Debug\Assignment3nov10.exe
+C:\Users\poojati\dotnet_trg\Assignments\Assignment3nov10\obj\Debug\Assignment3nov10.pdb

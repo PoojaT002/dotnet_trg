@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\bin\Debug\JaggedArrayStr.exe.config
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\bin\Debug\JaggedArrayStr.exe
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\bin\Debug\JaggedArrayStr.pdb
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\obj\Debug\JaggedArrayStr.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\obj\Debug\JaggedArrayStr.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\obj\Debug\JaggedArrayStr.exe
+C:\Users\poojati\dotnet_trg\Training\JaggedArrayStr\obj\Debug\JaggedArrayStr.pdb

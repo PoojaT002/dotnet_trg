@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\bin\Debug\CalculatorAppl.exe.config
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\bin\Debug\CalculatorAppl.exe
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\bin\Debug\CalculatorAppl.pdb
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\obj\Debug\CalculatorAppl.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\obj\Debug\CalculatorAppl.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\obj\Debug\CalculatorAppl.exe
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\obj\Debug\CalculatorAppl.pdb
+C:\Users\poojati\dotnet_trg\Training\CalculatorAppl\obj\Debug\CalculatorAppl.exe.config

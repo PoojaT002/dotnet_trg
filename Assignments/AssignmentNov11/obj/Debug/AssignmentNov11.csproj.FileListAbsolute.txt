@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\bin\Debug\AssignmentNov11.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\bin\Debug\AssignmentNov11.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\bin\Debug\AssignmentNov11.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\obj\Debug\AssignmentNov11.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\obj\Debug\AssignmentNov11.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\obj\Debug\AssignmentNov11.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\obj\Debug\AssignmentNov11.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentNov11\obj\Debug\AssignmentNov11.exe.config

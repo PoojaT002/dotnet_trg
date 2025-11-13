@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalDetails.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\PersonalDetails.cs",
+              "RelativeDocumentMoniker": "PersonalDetails.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\PersonalDetails.cs",
+              "RelativeToolTip": "PersonalDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T07:23:57.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:46:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:46:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:00:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:01:40.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

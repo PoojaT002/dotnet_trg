@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\bin\Debug\DynamicArray.exe.config
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\obj\Debug\DynamicArray.pdb
+C:\Users\poojati\dotnet_trg\Training\DynamicArray\obj\Debug\DynamicArray.exe.config

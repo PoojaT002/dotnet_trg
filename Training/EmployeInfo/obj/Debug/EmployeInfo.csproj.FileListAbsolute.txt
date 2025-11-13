@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\bin\Debug\EmployeInfo.exe.config
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\bin\Debug\EmployeInfo.exe
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\bin\Debug\EmployeInfo.pdb
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\obj\Debug\EmployeInfo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\obj\Debug\EmployeInfo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\obj\Debug\EmployeInfo.exe
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\obj\Debug\EmployeInfo.pdb
+C:\Users\poojati\dotnet_trg\Training\EmployeInfo\obj\Debug\EmployeInfo.exe.config

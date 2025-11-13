@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\bin\Debug\Access_Specifiers.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\bin\Debug\Access_Specifiers.exe
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\bin\Debug\Access_Specifiers.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\obj\Debug\Access_Specifiers.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\obj\Debug\Access_Specifiers.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\obj\Debug\Access_Specifiers.exe
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\obj\Debug\Access_Specifiers.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Access_Specifiers\obj\Debug\Access_Specifiers.exe.config

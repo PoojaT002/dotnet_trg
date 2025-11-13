@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\bin\Debug\Polymorphism.Demo.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\bin\Debug\Polymorphism.Demo.exe
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\bin\Debug\Polymorphism.Demo.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\obj\Debug\Polymorphism.Demo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\obj\Debug\Polymorphism.Demo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\obj\Debug\Polymorphism.Demo.exe
+C:\Users\poojati\dotnet_trg\Assignments\Polymorphism.Demo\obj\Debug\Polymorphism.Demo.pdb

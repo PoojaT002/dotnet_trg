@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\bin\Debug\RideEasyapp.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\bin\Debug\RideEasyapp.exe
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\bin\Debug\RideEasyapp.pdb
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\obj\Debug\RideEasyapp.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\obj\Debug\RideEasyapp.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\obj\Debug\RideEasyapp.exe
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\obj\Debug\RideEasyapp.pdb
+C:\Users\poojati\dotnet_trg\Assignments\RideEasyapp\obj\Debug\RideEasyapp.exe.config

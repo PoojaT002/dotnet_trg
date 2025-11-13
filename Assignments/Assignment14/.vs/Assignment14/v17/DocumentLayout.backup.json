@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\pricing\\tiereddiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:pricing\\tiereddiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\shipping\\shipmentquoterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:shipping\\shipmentquoterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\shipping\\delhiveryquotercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:shipping\\delhiveryquotercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\shipping\\bluedartquoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:shipping\\bluedartquoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\ishipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\ishipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\processing\\orderprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:processing\\orderprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\pricing\\mrpstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:pricing\\mrpstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\payments\\stripeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:payments\\stripeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\payments\\razorpayprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:payments\\razorpayprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\payments\\paymentproviderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:payments\\paymentproviderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignment14\\notifications\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:notifications\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\notifications\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:notifications\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\infrastructure\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:infrastructure\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\infrastructure\\iorderrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:infrastructure\\iorderrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\domain\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:domain\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\domain\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:domain\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\ilineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\ilineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\ishipmentquoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\ishipmentquoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\contracts\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CD24FC-BB69-4B6E-A42F-425C3A58E4BB}|Assignment14.csproj|solutionrelative:contracts\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TieredDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Pricing\\TieredDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Pricing\\TieredDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Pricing\\TieredDiscountStrategy.cs",
+              "RelativeToolTip": "Pricing\\TieredDiscountStrategy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:15:46.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderProcessorBase.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Processing\\OrderProcessorBase.cs",
+              "RelativeDocumentMoniker": "Processing\\OrderProcessorBase.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Processing\\OrderProcessorBase.cs",
+              "RelativeToolTip": "Processing\\OrderProcessorBase.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:21:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BluedartQuoter.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\BluedartQuoter.cs",
+              "RelativeDocumentMoniker": "Shipping\\BluedartQuoter.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\BluedartQuoter.cs",
+              "RelativeToolTip": "Shipping\\BluedartQuoter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:18:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShipment.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IShipment.cs",
+              "RelativeDocumentMoniker": "Contracts\\IShipment.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IShipment.cs",
+              "RelativeToolTip": "Contracts\\IShipment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:54:23.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelhiveryQuotercs.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\DelhiveryQuotercs.cs",
+              "RelativeDocumentMoniker": "Shipping\\DelhiveryQuotercs.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\DelhiveryQuotercs.cs",
+              "RelativeToolTip": "Shipping\\DelhiveryQuotercs.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:18:56.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipmentQuoterBase.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\ShipmentQuoterBase.cs",
+              "RelativeDocumentMoniker": "Shipping\\ShipmentQuoterBase.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Shipping\\ShipmentQuoterBase.cs",
+              "RelativeToolTip": "Shipping\\ShipmentQuoterBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:17:48.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:44:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MRPStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Pricing\\MRPStrategy.cs",
+              "RelativeDocumentMoniker": "Pricing\\MRPStrategy.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Pricing\\MRPStrategy.cs",
+              "RelativeToolTip": "Pricing\\MRPStrategy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:15:14.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StripeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\StripeProvider.cs",
+              "RelativeDocumentMoniker": "Payments\\StripeProvider.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\StripeProvider.cs",
+              "RelativeToolTip": "Payments\\StripeProvider.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:17:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RazorpayProvider.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\RazorpayProvider.cs",
+              "RelativeDocumentMoniker": "Payments\\RazorpayProvider.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\RazorpayProvider.cs",
+              "RelativeToolTip": "Payments\\RazorpayProvider.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:16:48.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentProviderBase.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\PaymentProviderBase.cs",
+              "RelativeDocumentMoniker": "Payments\\PaymentProviderBase.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Payments\\PaymentProviderBase.cs",
+              "RelativeToolTip": "Payments\\PaymentProviderBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:16:20.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Notifications\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "Notifications\\SmsNotifier.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Notifications\\SmsNotifier.cs",
+              "RelativeToolTip": "Notifications\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:20:40.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Notifications\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "Notifications\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Notifications\\EmailNotifier.cs",
+              "RelativeToolTip": "Notifications\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:20:18.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\OrderStatus.cs",
+              "RelativeToolTip": "Domain\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:14:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:13:11.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LineItem.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\LineItem.cs",
+              "RelativeDocumentMoniker": "Domain\\LineItem.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Domain\\LineItem.cs",
+              "RelativeToolTip": "Domain\\LineItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:13:53.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPaymentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IPaymentProvider.cs",
+              "RelativeDocumentMoniker": "Contracts\\IPaymentProvider.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IPaymentProvider.cs",
+              "RelativeToolTip": "Contracts\\IPaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:53:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IOrder.cs",
+              "RelativeDocumentMoniker": "Contracts\\IOrder.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IOrder.cs",
+              "RelativeToolTip": "Contracts\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:01:03.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\INotifier.cs",
+              "RelativeDocumentMoniker": "Contracts\\INotifier.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\INotifier.cs",
+              "RelativeToolTip": "Contracts\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:55:08.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SqlOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Infrastructure\\SqlOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SqlOrderRepository.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Infrastructure\\SqlOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\SqlOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:53:03.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILineItem.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\ILineItem.cs",
+              "RelativeDocumentMoniker": "Contracts\\ILineItem.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\ILineItem.cs",
+              "RelativeToolTip": "Contracts\\ILineItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:51:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IShipmentQuoter.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IShipmentQuoter.cs",
+              "RelativeDocumentMoniker": "Contracts\\IShipmentQuoter.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IShipmentQuoter.cs",
+              "RelativeToolTip": "Contracts\\IShipmentQuoter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:54:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRespository.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Infrastructure\\IOrderRespository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IOrderRespository.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Infrastructure\\IOrderRespository.cs",
+              "RelativeToolTip": "Infrastructure\\IOrderRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:25:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IPricingStrategy.cs",
+              "RelativeDocumentMoniker": "Contracts\\IPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\Assignment14\\Contracts\\IPricingStrategy.cs",
+              "RelativeToolTip": "Contracts\\IPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:52:30.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
