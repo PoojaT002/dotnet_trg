@@ -10,7 +10,7 @@ namespace Assignment11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("====== Welcome to online Utility Billing System ======");
+            Console.WriteLine("====== Welcome to online Utility Billing System ===============");
             Console.Write("Enter number of Customers: ");
             int n= Convert.ToInt32(Console.ReadLine());
 
@@ -25,7 +25,7 @@ namespace Assignment11
                 Console.Write("Customer Name: ");
                 bill.CustomerName = Console.ReadLine();
 
-                Console.Write("Enter monthly usage reading (in units, space separated): ");
+                Console.Write("Enter monthly usage reading : ");
                 string[] input = Console.ReadLine().Split(' ');
                 int[] readings = Array.ConvertAll(input, int.Parse);
 

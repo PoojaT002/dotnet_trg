@@ -34,15 +34,15 @@ namespace Assignment11
 
         public void DisplayBill(decimal total, decimal tax, decimal net)
         {
-            Console.WriteLine("\n======== Utility Bill ==========");
+            Console.WriteLine("\n==================== Utility Bill ======================");
             Console.WriteLine($"Customer ID : {CustomerID}");
             Console.WriteLine($"Customer Name : {CustomerName}");
             Console.WriteLine($"Service Charge : {GetServiceCharge()}");
-            Console.WriteLine($"Total Usage : {total:F2}");
-            Console.WriteLine($"Tax Applied : {tax:F2}");
-            Console.WriteLine($"Net Payable : {net:F2}");
+            Console.WriteLine($"Total Usage : {total}");
+            Console.WriteLine($"Tax Applied : {tax}");
+            Console.WriteLine($"Net Payable : {net}");
 
-            Console.WriteLine("\n===================================");
+            //Console.WriteLine("\n===================================");
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\bin\Debug\CodingTestNov17.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\bin\Debug\CodingTestNov17.exe
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\bin\Debug\CodingTestNov17.pdb
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\obj\Debug\CodingTestNov17.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\obj\Debug\CodingTestNov17.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\obj\Debug\CodingTestNov17.exe
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\obj\Debug\CodingTestNov17.pdb
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov17\obj\Debug\CodingTestNov17.exe.config
