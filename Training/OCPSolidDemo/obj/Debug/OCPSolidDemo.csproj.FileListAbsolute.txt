@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\bin\Debug\OCPSolidDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\bin\Debug\OCPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\bin\Debug\OCPSolidDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\obj\Debug\OCPSolidDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\obj\Debug\OCPSolidDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\obj\Debug\OCPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\obj\Debug\OCPSolidDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\OCPSolidDemo\obj\Debug\OCPSolidDemo.exe.config

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\ispsoliddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\imanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:imanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\ieat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:ieat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88EA057-AC77-49C8-AC44-F95C5F96A4D9}|ISPSolidDemo.csproj|solutionrelative:iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:58:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:54:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IManage.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IManage.cs",
+              "RelativeDocumentMoniker": "IManage.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IManage.cs",
+              "RelativeToolTip": "IManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:53:03.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEat.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IEat.cs",
+              "RelativeDocumentMoniker": "IEat.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IEat.cs",
+              "RelativeToolTip": "IEat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:52:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWork.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IWork.cs",
+              "RelativeDocumentMoniker": "IWork.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\IWork.cs",
+              "RelativeToolTip": "IWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:51:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ISPSolidDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:47:49.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

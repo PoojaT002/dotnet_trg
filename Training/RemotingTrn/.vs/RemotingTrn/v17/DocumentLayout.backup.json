@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\RemotingTrn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8B77A0-5074-446D-AFF5-DF398EFED1D6}|..\\ClientApp\\ClientApp.csproj|c:\\users\\poojati\\dotnet_trg\\training\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\poojati\\dotnet_trg\\Training\\ClientApp\\bin\\Debug\\Client.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48849D9-BD81-4391-91A3-8A29C54E03A8}|..\\ServerApp\\ServerApp.csproj|c:\\users\\poojati\\dotnet_trg\\training\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F561F105-CCDD-4D24-A99D-B1AE4121EEDB}|RemotingTrn.csproj|c:\\users\\poojati\\dotnet_trg\\training\\remotingtrn\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F561F105-CCDD-4D24-A99D-B1AE4121EEDB}|RemotingTrn.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700E737F-5257-429C-B83A-1563A3C5B403}|..\\RemotingLib\\RemotingLib.csproj|c:\\users\\poojati\\dotnet_trg\\training\\remotinglib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.config",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ClientApp\\bin\\Debug\\Client.config",
+              "RelativeDocumentMoniker": "..\\ClientApp\\bin\\Debug\\Client.config",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ClientApp\\bin\\Debug\\Client.config",
+              "RelativeToolTip": "..\\ClientApp\\bin\\Debug\\Client.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-19T10:39:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ClientApp\\Program.cs",
+              "RelativeToolTip": "..\\ClientApp\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:46:11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\ServerApp\\Program.cs",
+              "RelativeToolTip": "..\\ServerApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:00:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\RemotingLib\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\RemotingLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\RemotingLib\\Class1.cs",
+              "RelativeToolTip": "..\\RemotingLib\\Class1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:44:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\RemotingTrn\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\RemotingTrn\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:44:04.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

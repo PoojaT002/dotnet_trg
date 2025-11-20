@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\lspsoliddemo\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|solutionrelative:contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\lspsoliddemo\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|solutionrelative:permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\lspsoliddemo\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|solutionrelative:employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\lspsoliddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95DC576-13E0-4ECB-878F-7479C6018E9F}|LSPSolidDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "ContractEmployee.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\ContractEmployee.cs",
+              "RelativeToolTip": "ContractEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:44:29.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "PermanentEmployee.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\PermanentEmployee.cs",
+              "RelativeToolTip": "PermanentEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:43:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "EmployeeBase.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\EmployeeBase.cs",
+              "RelativeToolTip": "EmployeeBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:40:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\LSPSolidDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:37:51.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

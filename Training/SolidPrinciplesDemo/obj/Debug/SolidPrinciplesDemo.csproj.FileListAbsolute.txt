@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.exe
+C:\Users\poojati\dotnet_trg\Training\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.pdb

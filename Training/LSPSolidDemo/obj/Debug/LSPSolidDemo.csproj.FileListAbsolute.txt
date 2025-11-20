@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\bin\Debug\LSPSolidDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\bin\Debug\LSPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\bin\Debug\LSPSolidDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\obj\Debug\LSPSolidDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\obj\Debug\LSPSolidDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\obj\Debug\LSPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\LSPSolidDemo\obj\Debug\LSPSolidDemo.pdb

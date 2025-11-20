@@ -1,20 +1,51 @@
-﻿using System;
+﻿using Day2Assignment;
+using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 
-namespace Day2Assignment
+using static System.Console;
+
+namespace Day2Assignment1
+
 {
+
     internal class Program
+
     {
+
         static async Task Main(string[] args)
+
         {
-            StudentManager sm=new StudentManager();
 
-            await sm.ShowAllStudents();
+            StudentManager studentmanager = new StudentManager();
 
-            var s = await sm.GetStudentAsync(2);
+            WriteLine("All Students: ");
+
+            studentmanager.ShowAllStudents();
+
+            WriteLine("\nGet Student by ID 2:");
+
+            var s = await studentmanager.GetStudentAsync(2);
+
+            WriteLine(s);
+
+            WriteLine("\nGet Student by ID 0:");
+
+            var defaultStud = await studentmanager.GetStudentAsync();
+
+            WriteLine(defaultStud);
+
+            ReadLine();
+
         }
+
     }
+
 }
+

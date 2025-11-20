@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\bin\Debug\Day2Assignment.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\bin\Debug\Day2Assignment.exe
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\bin\Debug\Day2Assignment.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\obj\Debug\Day2Assignment.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\obj\Debug\Day2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\obj\Debug\Day2Assignment.exe
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\obj\Debug\Day2Assignment.pdb
+C:\Users\poojati\dotnet_trg\Assignments\Day2Assignment\obj\Debug\Day2Assignment.exe.config

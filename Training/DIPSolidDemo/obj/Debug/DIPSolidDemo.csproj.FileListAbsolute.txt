@@ -1,0 +1,7 @@
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\bin\Debug\DIPSolidDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\bin\Debug\DIPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\bin\Debug\DIPSolidDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\obj\Debug\DIPSolidDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\obj\Debug\DIPSolidDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\obj\Debug\DIPSolidDemo.exe
+C:\Users\poojati\dotnet_trg\Training\DIPSolidDemo\obj\Debug\DIPSolidDemo.pdb

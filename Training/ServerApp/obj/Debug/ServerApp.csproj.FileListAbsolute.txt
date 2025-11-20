@@ -1,0 +1,13 @@
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\RemotingLib.dll
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\RemotingTrn.dll
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\RemotingLib.pdb
+C:\Users\poojati\dotnet_trg\Training\ServerApp\bin\Debug\RemotingTrn.pdb
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\poojati\dotnet_trg\Training\ServerApp\obj\Debug\ServerApp.exe.config
