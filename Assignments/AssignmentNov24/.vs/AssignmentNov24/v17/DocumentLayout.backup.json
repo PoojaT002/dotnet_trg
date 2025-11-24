@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov24\\bankacctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|solutionrelative:bankacctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov24\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov24\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|solutionrelative:calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov24\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0844F39-A379-4EDB-9625-90AA5A8364AC}|AssignmentNov24.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 196,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:35:31.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:25:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccTest.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\BankAccTest.cs",
+              "RelativeDocumentMoniker": "BankAccTest.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\BankAccTest.cs*",
+              "RelativeToolTip": "BankAccTest.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAzwHcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:37:22.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov24\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorTests.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwDgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:49:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
