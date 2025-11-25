@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov25\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov25\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|solutionrelative:customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentnov25\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D621A175-D7F9-4352-8266-EEDE9FABB54A}|AssignmentNov25.csproj|solutionrelative:icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerService.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\CustomerService.cs",
+              "RelativeToolTip": "CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:52:51.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\ICalculator.cs",
+              "RelativeDocumentMoniker": "ICalculator.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\ICalculator.cs",
+              "RelativeToolTip": "ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:43:17.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentNov25\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:41:17.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

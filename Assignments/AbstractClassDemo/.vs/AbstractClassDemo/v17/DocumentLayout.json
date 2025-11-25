@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\abstractclassdemo\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AbstractClassDemo\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C40F835-B1E7-4CCE-B74D-1164AF3EB8E3}|AbstractClassDemo.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -46,8 +50,7 @@
               "RelativeToolTip": "PersonalDetails.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T07:23:57.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:23:57.941Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "CurrentAccount.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T06:46:53.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:46:53.196Z"
             },
             {
               "$type": "Document",
@@ -72,8 +74,7 @@
               "RelativeToolTip": "SavingsAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T06:46:35.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:46:35.476Z"
             },
             {
               "$type": "Document",
@@ -98,8 +99,7 @@
               "RelativeToolTip": "BankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T06:01:40.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T06:01:40.894Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\bin\Debug\net9.0\CodingTestNov25Week3.deps.json
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\bin\Debug\net9.0\CodingTestNov25Week3.dll
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\bin\Debug\net9.0\CodingTestNov25Week3.pdb
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.AssemblyInfoInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.AssemblyInfo.cs
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.sourcelink.json
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.dll
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\refint\CodingTestNov25Week3.dll
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\CodingTestNov25Week3.pdb
+C:\Users\poojati\dotnet_trg\Assignments\CodingTestNov25Week3\obj\Debug\net9.0\ref\CodingTestNov25Week3.dll
