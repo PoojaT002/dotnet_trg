@@ -15,7 +15,17 @@ namespace AdonetDemo
             //conectionsClass.AddEmployee();
             //conectionsClass.DeleteEmployee();
             //conectionsClass.UpdateEmployee();
-            conectionsClass.EmpTransaction();
+            //conectionsClass.EmpTransaction();
+
+            DisconnectedCls disconnectedCls = new DisconnectedCls();
+            disconnectedCls.ShowAllEmployee();
+
+            //disconnectedCls.SearchEmployee();
+            //disconnectedCls.AddEmployee();
+            //disconnectedCls.DeleteEmployee();
+            //disconnectedCls.UpdateEmployee();
+            //disconnectedCls.FilterEmployee();
+            disconnectedCls.StoreinXML();
             Console.ReadLine();
         }
     }

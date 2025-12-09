@@ -1,0 +1,8 @@
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\bin\Debug\AssignmentDec9.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\bin\Debug\AssignmentDec9.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\bin\Debug\AssignmentDec9.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\obj\Debug\AssignmentDec9.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\obj\Debug\AssignmentDec9.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\obj\Debug\AssignmentDec9.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\obj\Debug\AssignmentDec9.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec9\obj\Debug\AssignmentDec9.exe.config

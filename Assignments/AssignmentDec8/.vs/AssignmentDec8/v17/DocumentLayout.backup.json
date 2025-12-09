@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentdec8\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|solutionrelative:connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E8ADA9-80C7-49B5-88CA-DA83394DD847}|AssignmentDec8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConnectedArchitecture.cs",
               "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\ConnectedArchitecture.cs",
               "RelativeDocumentMoniker": "ConnectedArchitecture.cs",
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\ConnectedArchitecture.cs",
               "RelativeToolTip": "ConnectedArchitecture.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAkwHgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABABAAAAAAAAAAAAAIYBAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T10:13:26.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T10:12:37.618Z",
               "EditorCaption": ""

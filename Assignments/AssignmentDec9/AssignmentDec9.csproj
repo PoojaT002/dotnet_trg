@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8267495A-BD72-4110-9BFB-948200B5AB31}</ProjectGuid>
+    <ProjectGuid>{52B85D13-BADE-45B6-9C8A-34875A538878}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AdonetDemo</RootNamespace>
-    <AssemblyName>AdonetDemo</AssemblyName>
+    <RootNamespace>AssignmentDec9</RootNamespace>
+    <AssemblyName>AssignmentDec9</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConnectionsClass.cs" />
     <Compile Include="DisconnectedCls.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
