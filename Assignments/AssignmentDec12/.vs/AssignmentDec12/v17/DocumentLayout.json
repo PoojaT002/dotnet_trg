@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentdec12\\crudcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|solutionrelative:crudcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentdec12\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentdec12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E4561F-D627-4EC5-9065-0E4F29983E14}|AssignmentDec12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDCls.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\CRUDCls.cs",
+              "RelativeDocumentMoniker": "CRUDCls.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\CRUDCls.cs",
+              "RelativeToolTip": "CRUDCls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:10:23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-12T07:07:32.868Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:04:58.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
