@@ -1,0 +1,83 @@
+ADO.NET ASSESSMENT
+------------------
+
+“EduTrack – University Course Enrollment System”
+
+create database EduTrackdb
+
+1. Students
+
+create table Students(
+   StudentId int primary key identity(1,1),
+   FullName varchar(100) not null,
+   Email varchar(100) unique,
+   Department varchar(50) not null,
+   YearOfStudy int not null
+)
+
+insert into Students values
+('Amit Patil','amit@mail.com','Electronics Comm',3),
+('Girish Tiwari','girisha@mail.com','Computer Science',1),
+('Reva Patel','reva@mail.com','Mechanical',2),
+('Priya Pawar','priya@mail.com','Electrical',4),
+('Sneha Singh','sneha@mail.com','Computer Science',3)
+
+select*from Students
+----------------------------------------------------------------------------------
+
+2.Courses
+
+create table Courses(
+   CourseId int primary key identity(1,1),
+   CourseName varchar(100) not null,
+   Credits int not null,
+   Semester varchar(20) not null
+)
+
+insert into Courses values
+('AI',4,'Sem 2'),
+('Data Science',2,'Sem 3'),
+('Machine Learning',5,'Sem 3'),
+('Networks',7,'Sem 4'),
+('Data Analytics',1,'Sem 5'),
+('Powerbi',8,'Sem 4')
+
+select*from Courses
+----------------------------------------------------------------------------------
+
+3.Enrollments
+
+create table Enrollments(
+   EnrollmentId int primary key identity(1,1),
+   StudentId int foreign key references Students(StudentId),
+   CourseId int foreign key references Courses(CourseId),
+   EnrollDate datetime not null,
+   Grade varchar(5) null
+)
+
+insert into Enrollments values
+(2,1,getdate(),null),
+(1,1,getdate(),null),
+(1,3,getdate(),null),
+(3,2,getdate(),null),
+(5,5,getdate(),null),
+(4,4,getdate(),null)
+
+select*from Enrollments
+----------------------------------------------------------------------------------
+
+
+//Stored procedure
+
+create procedure usp_GetCoursesBySemester
+@semester varchar(20)
+AS
+begin
+select CourseId,
+CourseName,
+Credits,
+Semester
+from Courses where Semester=@semester
+end 
+
+exec usp_GetCoursesBySemester 'Sem 3'

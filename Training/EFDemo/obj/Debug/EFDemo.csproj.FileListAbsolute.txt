@@ -1,0 +1,13 @@
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EFDemo.exe.config
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EFDemo.exe
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EFDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EntityFramework.dll
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EntityFramework.xml
+C:\Users\poojati\dotnet_trg\Training\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.csproj.Up2Date
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.exe
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.pdb
+C:\Users\poojati\dotnet_trg\Training\EFDemo\obj\Debug\EFDemo.exe.config
