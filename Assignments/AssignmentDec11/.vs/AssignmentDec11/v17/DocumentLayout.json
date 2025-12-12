@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|c:\\users\\poojati\\dotnet_trg\\assignments\\assignmentdec11\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\arrayss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|solutionrelative:arrayss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D975F439-2213-4CDB-ACDF-B8741717B178}|AssignmentDec11.csproj|solutionrelative:movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:55:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Movies.cs",
+              "RelativeDocumentMoniker": "Movies.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Movies.cs",
+              "RelativeToolTip": "Movies.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:19:32.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrayss.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Arrayss.cs",
+              "RelativeDocumentMoniker": "Arrayss.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Arrayss.cs",
+              "RelativeToolTip": "Arrayss.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:48:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Assignments\\AssignmentDec11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:47:26.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
