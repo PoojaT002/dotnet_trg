@@ -13,10 +13,10 @@ namespace AssignmentDec12
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class infinitedbEntities : DbContext
+    public partial class infinitedbEntities1 : DbContext
     {
-        public infinitedbEntities()
-            : base("name=infinitedbEntities")
+        public infinitedbEntities1()
+            : base("name=infinitedbEntities1")
         {
         }
     

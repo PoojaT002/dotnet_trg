@@ -10,6 +10,16 @@ namespace AssignmentDec12
     {
         static void Main(string[] args)
         {
+            CRUDCls cRUDCls = new CRUDCls();
+            //cRUDCls.DisplayEmployeeDept();
+            //cRUDCls.DisplayIdName();
+            //cRUDCls.DisplayEmpBetweenDates();
+            //cRUDCls.DisplayEmpIdNameSalary();
+            //cRUDCls.InsertEmployee();
+            cRUDCls.DeleteEmployee();
+
+            Console.ReadLine();
         }
     }
+    
 }

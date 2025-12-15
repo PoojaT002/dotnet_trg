@@ -1,0 +1,13 @@
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\AssignmentDec12.exe.config
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\AssignmentDec12.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\AssignmentDec12.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\EntityFramework.dll
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\EntityFramework.xml
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\AssignmentDec12.csproj.AssemblyReference.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\AssignmentDec12.csproj.CoreCompileInputs.cache
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\Assignme.169EEABF.Up2Date
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\AssignmentDec12.exe
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\AssignmentDec12.pdb
+C:\Users\poojati\dotnet_trg\Assignments\AssignmentDec12\obj\Debug\AssignmentDec12.exe.config
