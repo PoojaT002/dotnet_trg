@@ -1,42 +1,38 @@
---view with encryption
------------------------
-create view v1
-with encryption
+create table tblProducts
+(
+ID int identity primary key,
+pname nvarchar(20),
+description nvarchar(50)
+)
+
+insert into tblProducts values('Desktops','Intel'),
+('iPhones','Apple Ltd'),
+('Led TV','Sony')
+
+select*from tblProducts
+
+create or alter procedure spProductsDetails
 as
-select studentRollNumber, studentName,Class from Students 
-
-select*from v1
-
---view with checkpoint
-------------------------
-create view v2
+begin 
+waitfor delay '00:00:05'
+select Id,pname,description from tblProducts
+end
+ 
+exec spProductsDetails
+ 
+ 
+create or alter procedure spGetProductByName
+@Productname nvarchar(50)
 as
-select StudentRollNumber, StudentName,Class from Students
-where Class =10
-
-select* from v2 
-
---view with schemabinding
------------------------
-create view v3
-with schemabinding 
-as 
-select StudentRollNumber,StudentName,Class from dbo.Students
-
-select*from v3
-
-sp_helptext v2
-
-sp_depends v1
-
-create view v4
-with encryption, schemabinding
-as
-select StudentRollNumber,StudentName,Class from dbo.Students
-where Class = 10
-with check option
-
-select *from v4
-
-
-write a querrt to find the sum of age and i want group by address
+begin
+if(@Productname = 'All')
+begin
+select Id,pname,description from tblproducts
+end
+else
+begin
+select Id,pname,description from tblproducts where pname=@Productname
+end
+end
+ 
+exec spGetProductByName 'laptops'

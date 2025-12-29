@@ -10,11 +10,8 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FileHandling||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6D1D5E-C7A5-4170-9C85-30EE5423CAC9}|FileHandling.csproj|c:\\users\\poojati\\dotnet_trg\\training\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F6D1D5E-C7A5-4170-9C85-30EE5423CAC9}|FileHandling.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\FileHandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6D1D5E-C7A5-4170-9C85-30EE5423CAC9}|FileHandling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6D1D5E-C7A5-4170-9C85-30EE5423CAC9}|FileHandling.csproj|c:\\users\\poojati\\dotnet_trg\\training\\filehandling\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +21,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -39,8 +40,7 @@
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\FileHandling\\FileHandling.csproj",
               "RelativeToolTip": "FileHandling.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-14T07:57:04.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T07:57:04.943Z"
             },
             {
               "$type": "Document",
@@ -65,8 +65,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:44:41.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:44:41.598Z"
             }
           ]
         }

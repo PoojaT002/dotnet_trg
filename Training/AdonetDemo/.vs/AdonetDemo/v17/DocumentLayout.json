@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\AdonetDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\AdonetDemo\\disconnectedcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\adonetdemo\\disconnectedcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|solutionrelative:disconnectedcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|c:\\users\\poojati\\dotnet_trg\\training\\adonetdemo\\connectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|C:\\Users\\poojati\\dotnet_trg\\Training\\AdonetDemo\\connectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8267495A-BD72-4110-9BFB-948200B5AB31}|AdonetDemo.csproj|solutionrelative:connectionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "DisconnectedCls.cs",
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\AdonetDemo\\DisconnectedCls.cs",
               "RelativeToolTip": "DisconnectedCls.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T06:36:54.552Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "ConnectionsClass.cs",
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\AdonetDemo\\ConnectionsClass.cs",
               "RelativeToolTip": "ConnectionsClass.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T06:45:25.061Z",
               "EditorCaption": ""

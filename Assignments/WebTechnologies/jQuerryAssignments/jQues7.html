@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+<div id="hover" style="width:200px;height:100px;background:rgb(11, 30, 245);">
+Hover Me
+</div>
+<script>
+$("#hover").mouseover(function () {
+   $(this).css("background", "dark blue");
+});
+$("#hover").mouseout(function () {
+   $(this).css("background", "green");
+});
+</script>
+</body>
+</html>

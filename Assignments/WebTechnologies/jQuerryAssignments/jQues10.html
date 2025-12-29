@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body style="background-color: lavender;">
+    <div style="display: flex;justify-content: center;"> 
+        <img id="img" src="babyboy.jpg" width="400" height="400" >
+
+</div>
+<div  style="display: flex;justify-content: center;margin-top: 5px;">
+        <button id="resize">Resize</button>
+
+</div>
+<br><br>
+<script>
+
+$("#resize").click(function () {
+
+    $("#img").attr({ width: "200", height: "200" });
+
+});
+</script>
+</body>
+</html>
+ 

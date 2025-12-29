@@ -1,0 +1,31 @@
+﻿html, body {
+    height: 150%;
+    margin: 0;
+}
+
+body {
+    font-family: Arial;
+    background-color: aquamarine;
+}
+
+.content {
+    padding: 30px;
+}
+
+.header {
+    background-color: #003366;
+    color: lightcyan;
+    padding: 5px;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    background-color: lightblue;
+}
