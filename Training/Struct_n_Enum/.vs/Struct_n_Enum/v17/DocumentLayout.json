@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|c:\\users\\poojati\\dotnet_trg\\training\\struct_n_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Struct_n_Enum||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|c:\\users\\poojati\\dotnet_trg\\training\\struct_n_enum\\structeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|solutionrelative:structeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|c:\\users\\poojati\\dotnet_trg\\training\\struct_n_enum\\enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|solutionrelative:enumeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46ECB4C-4B50-4F11-9315-7F69AD8D3357}|Struct_n_Enum.csproj|c:\\users\\poojati\\dotnet_trg\\training\\struct_n_enum\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnumEg.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\EnumEg.cs",
+              "RelativeDocumentMoniker": "EnumEg.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\EnumEg.cs",
+              "RelativeToolTip": "EnumEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:58:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructEg2.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\StructEg2.cs",
+              "RelativeDocumentMoniker": "StructEg2.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\StructEg2.cs",
+              "RelativeToolTip": "StructEg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:56:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Struct_n_Enum",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\Struct_n_Enum.csproj",
+              "RelativeDocumentMoniker": "Struct_n_Enum.csproj",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\Struct_n_Enum.csproj",
+              "RelativeToolTip": "Struct_n_Enum.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T09:55:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\Training\\Struct_n_Enum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:48:33.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
