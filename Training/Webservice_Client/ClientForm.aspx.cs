@@ -9,6 +9,9 @@ namespace Webservice_Client
 {
     public partial class ClientForm : System.Web.UI.Page
     {
+        Infinite_Reference.Web_Infinite_ServicesSoapClient client =
+             new Infinite_Reference.Web_Infinite_ServicesSoapClient();
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
