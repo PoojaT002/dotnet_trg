@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\bin\Debug\DelegateDemo.exe.config
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\bin\Debug\DelegateDemo.exe
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\bin\Debug\DelegateDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\obj\Debug\DelegateDemo.exe
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\obj\Debug\DelegateDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\DelegateDemo\obj\Debug\DelegateDemo.exe.config

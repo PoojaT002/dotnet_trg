@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\bin\Debug\AutoCareSoltn.exe.config
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\bin\Debug\AutoCareSoltn.exe
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\bin\Debug\AutoCareSoltn.pdb
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\obj\Debug\AutoCareSoltn.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\obj\Debug\AutoCareSoltn.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\obj\Debug\AutoCareSoltn.exe
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\obj\Debug\AutoCareSoltn.pdb
-C:\Users\poojati\dotnet_trg\Assignments\AutoCareSoltn\obj\Debug\AutoCareSoltn.exe.config

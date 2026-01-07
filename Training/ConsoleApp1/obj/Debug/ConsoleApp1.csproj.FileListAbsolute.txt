@@ -1,7 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\poojati\dotnet_trg\Training\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

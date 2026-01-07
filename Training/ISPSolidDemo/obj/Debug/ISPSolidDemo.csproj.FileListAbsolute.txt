@@ -1,7 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\bin\Debug\ISPSolidDemo.exe.config
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\bin\Debug\ISPSolidDemo.exe
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\bin\Debug\ISPSolidDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\obj\Debug\ISPSolidDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\obj\Debug\ISPSolidDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\obj\Debug\ISPSolidDemo.exe
-C:\Users\poojati\dotnet_trg\Training\ISPSolidDemo\obj\Debug\ISPSolidDemo.pdb

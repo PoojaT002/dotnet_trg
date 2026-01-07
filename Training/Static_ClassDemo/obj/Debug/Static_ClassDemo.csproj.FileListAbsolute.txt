@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\bin\Debug\Static_ClassDemo.exe.config
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\bin\Debug\Static_ClassDemo.exe
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\bin\Debug\Static_ClassDemo.pdb
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\obj\Debug\Static_ClassDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\obj\Debug\Static_ClassDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\obj\Debug\Static_ClassDemo.exe
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\obj\Debug\Static_ClassDemo.pdb
-C:\Users\poojati\dotnet_trg\Assignments\Static_ClassDemo\obj\Debug\Static_ClassDemo.exe.config

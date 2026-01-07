@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\Constructor\bin\Debug\Constructor.exe.config
-C:\Users\poojati\dotnet_trg\Training\Constructor\bin\Debug\Constructor.exe
-C:\Users\poojati\dotnet_trg\Training\Constructor\bin\Debug\Constructor.pdb
-C:\Users\poojati\dotnet_trg\Training\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\Constructor\obj\Debug\Constructor.exe
-C:\Users\poojati\dotnet_trg\Training\Constructor\obj\Debug\Constructor.pdb
-C:\Users\poojati\dotnet_trg\Training\Constructor\obj\Debug\Constructor.exe.config

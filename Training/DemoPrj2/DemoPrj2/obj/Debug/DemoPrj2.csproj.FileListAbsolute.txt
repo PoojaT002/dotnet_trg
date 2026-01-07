@@ -1,8 +1,0 @@
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\bin\Debug\DemoPrj2.exe.config
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\bin\Debug\DemoPrj2.exe
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\bin\Debug\DemoPrj2.pdb
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\obj\Debug\DemoPrj2.csproj.AssemblyReference.cache
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\obj\Debug\DemoPrj2.csproj.CoreCompileInputs.cache
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\obj\Debug\DemoPrj2.exe
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\obj\Debug\DemoPrj2.pdb
-C:\Users\poojati\source\repos\DemoPrj2\DemoPrj2\obj\Debug\DemoPrj2.exe.config

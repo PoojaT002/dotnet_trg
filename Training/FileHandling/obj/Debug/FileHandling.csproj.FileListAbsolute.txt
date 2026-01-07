@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\FileHandling\bin\Debug\FileHandling.exe.config
-C:\Users\poojati\dotnet_trg\Training\FileHandling\bin\Debug\FileHandling.exe
-C:\Users\poojati\dotnet_trg\Training\FileHandling\bin\Debug\FileHandling.pdb
-C:\Users\poojati\dotnet_trg\Training\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\FileHandling\obj\Debug\FileHandling.exe
-C:\Users\poojati\dotnet_trg\Training\FileHandling\obj\Debug\FileHandling.pdb
-C:\Users\poojati\dotnet_trg\Training\FileHandling\obj\Debug\FileHandling.exe.config

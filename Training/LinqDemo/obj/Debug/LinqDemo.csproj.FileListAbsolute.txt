@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\bin\Debug\LinqDemo.exe.config
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\bin\Debug\LinqDemo.exe
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\bin\Debug\LinqDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\obj\Debug\LinqDemo.exe
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\obj\Debug\LinqDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\LinqDemo\obj\Debug\LinqDemo.exe.config

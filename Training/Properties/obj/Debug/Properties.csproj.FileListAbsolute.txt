@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Assignments\Properties\bin\Debug\Properties.exe.config
-C:\Users\poojati\dotnet_trg\Assignments\Properties\bin\Debug\Properties.exe
-C:\Users\poojati\dotnet_trg\Assignments\Properties\bin\Debug\Properties.pdb
-C:\Users\poojati\dotnet_trg\Assignments\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Assignments\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Assignments\Properties\obj\Debug\Properties.exe
-C:\Users\poojati\dotnet_trg\Assignments\Properties\obj\Debug\Properties.pdb
-C:\Users\poojati\dotnet_trg\Assignments\Properties\obj\Debug\Properties.exe.config

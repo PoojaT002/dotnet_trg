@@ -1,7 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.exe.config
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.exe
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.exe
-C:\Users\poojati\dotnet_trg\Training\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.pdb

@@ -1,8 +1,0 @@
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\bin\Debug\AdonetDemo.exe.config
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\bin\Debug\AdonetDemo.exe
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\bin\Debug\AdonetDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\obj\Debug\AdonetDemo.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\obj\Debug\AdonetDemo.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\obj\Debug\AdonetDemo.exe
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\obj\Debug\AdonetDemo.pdb
-C:\Users\poojati\dotnet_trg\Training\AdonetDemo\obj\Debug\AdonetDemo.exe.config

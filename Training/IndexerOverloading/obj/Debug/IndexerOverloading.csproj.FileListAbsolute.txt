@@ -1,7 +1,0 @@
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\bin\Debug\IndexerOverloading.exe.config
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\bin\Debug\IndexerOverloading.exe
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\bin\Debug\IndexerOverloading.pdb
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\obj\Debug\IndexerOverloading.csproj.AssemblyReference.cache
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\obj\Debug\IndexerOverloading.csproj.CoreCompileInputs.cache
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\obj\Debug\IndexerOverloading.exe
-C:\Users\poojati\dotnet_trg\Assignments\IndexerOverloading\obj\Debug\IndexerOverloading.pdb
