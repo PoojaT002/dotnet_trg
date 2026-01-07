@@ -26,8 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-02T13:06:04.89Z",
               "EditorCaption": ""
@@ -47,8 +55,8 @@
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "Controllers\\StudentController.cs*",
+              "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAwDcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T12:58:45.744Z",
@@ -66,14 +74,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T12:55:19.716Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",

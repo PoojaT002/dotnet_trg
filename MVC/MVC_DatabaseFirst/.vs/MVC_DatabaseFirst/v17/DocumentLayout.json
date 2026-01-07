@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|c:\\users\\poojati\\dotnet_trg\\mvc\\mvc_databasefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|c:\\users\\poojati\\dotnet_trg\\mvc\\mvc_databasefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|c:\\users\\poojati\\dotnet_trg\\mvc\\mvc_databasefirst\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|c:\\users\\poojati\\dotnet_trg\\mvc\\mvc_databasefirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{4CC98E9E-2E50-40E9-9271-A2DAAF38DD40}|MVC_DatabaseFirst.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Model1.Context.cs",
               "DocumentMoniker": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Models\\Model1.Context.cs",
               "RelativeDocumentMoniker": "Models\\Model1.Context.cs",
@@ -84,8 +84,7 @@
               "ToolTip": "C:\\Users\\poojati\\dotnet_trg\\MVC\\MVC_DatabaseFirst\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-02T12:45:28.948Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-02T12:45:28.948Z"
             }
           ]
         }

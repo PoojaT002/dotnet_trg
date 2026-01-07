@@ -1,0 +1,27 @@
+﻿@model MVC_CodeFirst.Models.Products
+
+@{
+    ViewBag.Title = "GetIdOfProduct";
+}
+
+<h2>GetIdOfProduct</h2>
+<p>
+
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.Price</td>
+    </tr>
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.Quantity</td>
+    </tr>
+</table>
+
