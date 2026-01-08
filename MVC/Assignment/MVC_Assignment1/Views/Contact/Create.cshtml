@@ -1,0 +1,47 @@
+﻿@model MVC_Assignment1.Models.Contact
+
+<h2>Create Contact</h2>
+
+<style>
+    body {
+        background: linear-gradient(to right, #cfd9df, #e2ebf0);
+        font-family: Arial;
+    }
+
+    .box {
+        width: 300px;
+        padding: 15px;
+        background: #fff;
+        border-radius: 5px;
+    }
+
+    label {
+        display: block;
+        margin-top: 10px;
+    }
+
+    input {
+        width: 100%;
+        padding: 5px;
+    }
+
+    button {
+        margin-top: 15px;
+        padding: 6px 12px;
+    }
+</style>
+
+<div class="box">
+    <form method="post">
+        <label>First Name</label>
+        @Html.TextBoxFor(m => m.FirstName)
+
+        <label>Last Name</label>
+        @Html.TextBoxFor(m => m.LastName)
+
+        <label>Email</label>
+        @Html.TextBoxFor(m => m.Email)
+
+        <button type="submit">Save</button>
+    </form>
+</div>
